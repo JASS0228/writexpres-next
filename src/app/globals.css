@@ -1,0 +1,14 @@
+.auth-bg {
+	background-color: black;
+	height: 100vh;
+}
+
+.texto {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.inputArea {
+	height: 430px;
+}
