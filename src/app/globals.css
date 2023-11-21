@@ -12,3 +12,7 @@
 .inputArea {
 	height: 430px;
 }
+
+.btn-hover:hover {
+	background-color: rgb(174, 8, 8);
+}
